@@ -24,7 +24,7 @@ console.log("Merhaba Dünya");
 
 
 console.log(window);//window objesi site içindeki tüm objeleri gösterir üst kısmıdaki sekme  dahil tüm objeleri gösterir
-//document objeside sayfa içindeki tüm objeleri gösterir
+//document objeside window objesinin içerisindeki sayfanın tüm objelerini gösterir
 
 console.log(document.location.host);//sayfanın hostunu gösterir
 
