@@ -25,7 +25,9 @@ console.log("Merhaba Dünya");
 
 console.log(window);//window objesi site içindeki tüm objeleri gösterir üst kısmıdaki sekme  dahil tüm objeleri gösterir
 //document objeside window objesinin içerisindeki sayfanın tüm objelerini gösterir
-
+//window içerisinde birsürü obje vardır ve şöyle window içerisindeki bir objeyi kullanıcağımız zaman direk obje ismini yazabiliriz başına window yazmamıza gerek yoktur
+//window tüm bir sekmeyi barındırırken document window içerisindeki bir objedir ve sekmedeki sayfayı barındırır iç içe bir hiyerarşi vardır tabi bunların içerisinde de farklı objeler bulunur ama en tepe window objeidir bu yüzden bir şey yazarken başına window yazmasakta olur
+//mesela console objesi de window objesinin içerisindeki bir objedir console içinde de farklı objeler bulunur
 console.log(document.location.host);//sayfanın hostunu gösterir
 
 console.clear();
