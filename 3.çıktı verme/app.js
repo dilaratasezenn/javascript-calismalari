@@ -38,4 +38,6 @@ console.clear();
 //let b=10;
 //alert("iki sayının toplamı:"+(a+b));//matematiksel işlem yapılabilir
 
-alert("F5 tuşuna basmayınız");//şeklinde popup ile uyarı verilebilir kısaca alert bilgilendirmek ve uyarı için kullanılablir
+alert("F5 tuşuna basmayınız");
+//şeklinde popup ile uyarı verilebilir kısaca alert bilgilendirmek ve uyarı için kullanılablir
+
